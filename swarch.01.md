@@ -24,7 +24,7 @@ v1.0.0
 
 What is an »architectural style«?
 
-![h:200 ](img/arch_style1.jpg) ![h:200 ](img/arch_style2.jpg) ![h:200 ](img/arch_style3.jpg)
+![h:200 ](img/swarch.01.arch_style1.jpg) ![h:200 ](img/swarch.01.arch_style2.jpg) ![h:200 ](img/swarch.01.arch_style3.jpg)
 
 ---
 
