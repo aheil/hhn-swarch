@@ -38,7 +38,7 @@ What is an »architectural style«?
     * rose windows
     * pointed archs
     * gothic buttress
-![w:640 bg right](img/gothic_style.jpg) 
+![w:640 bg right](img/swarch.01.gothic_style.jpg) 
 ---
 
 # Architctural Style Example
@@ -52,7 +52,7 @@ What is an »architectural style«?
     * pointed archs
     * gothic buttress
     
-![bg right](img/notre_dame.jpg) 
+![bg right](img/swarch.01.notre_dame.jpg) 
 
 ---
 
