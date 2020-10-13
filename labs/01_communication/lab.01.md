@@ -1,7 +1,7 @@
 # Lab 01: Communication Exercise  
 
 ## Goals
-* Train you skills to communicate software architectures to third parties without previous knowledge 
+* Train you skills to communicate software architectures to third parties without previous knowledge
 
 ## Tasks
 * Find yourself in groups of three 
