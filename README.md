@@ -1,14 +1,12 @@
 # Advanced Software Architecture
 
-This course is being taught at as part of Master Software Engineering and Management at Heilbron University for Applied Sciences in Germany.
+This course is being taught at as part of Master Software Engineering and Management at Heilbronn University for Applied Sciences in Germany.
 
 [Go to the official Website ⏭](https://www.hs-heilbronn.de/advanced-software-architecture)
 
 ## Lecture Slides 
 
 * [Software Architecture: Introduction](https://github.com/aheil/hhn-swarch/slides/raw/main/swarch.01.pdf)
-
-Lab Home Assignement Notes 
 
 ### Lab 1: Software Architecture 
 
