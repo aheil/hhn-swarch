@@ -17,7 +17,7 @@ jobs:
 
       - name: marp-action setup
         id: hello
-        uses: aheil/marp-action@v0.0.11
+        uses: aheil/marp-action@v0.0.12
         with:
           src-dir: 'slides'
       
