@@ -1,3 +1,5 @@
+![Publish](https://github.com/aheil/hhn-swarch/workflows/Publish/badge.svg)
+
 # Advanced Software Architecture
 
 This course is being taught at as part of Master Software Engineering and Management at Heilbronn University for Applied Sciences in Germany.
