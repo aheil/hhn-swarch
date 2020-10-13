@@ -1,4 +1,4 @@
-# Software Archictecture Communication Excercise 
+# Lab 01: Communication Exercise  
 
 ## Goals
 * Train you skills to communicate software architectures to third parties without previous knowledge 
@@ -13,14 +13,20 @@
     * You whatever tools you feel convinient 
 * Choose one tool which you consider as the most interesting for the whole course 
 * One team member presents this program the rest of the class
-* Upload the presentation to the corresponding ILIAS exercise
 * **Restricitons**: You must not describe your own project, it has to be one of the programs presented by your team members. 
 
-**The presentation will last 2-3 minutes:** 
-* Try to focus on the main aspects 
-* Your audience should get the idea of the structure/architecture of the program 
+### Submission
+
+* Create a short presentation about the software you are going to describe 
+* It shoulbd be the most three slides/pages
+* Assume this is an "internal" meeting, you don't require any introduction yourself etc. 
+* Uplod the presentation to the corresponding ILIAS exercise
+
+### The presentation should not be more than 5 minutes:** 
+* Try to focus on the main aspects oft he software system you describe 
+* Your audience should get the idea of the main structure/architecture of the program 
 * Your adudience should be able to create a similar program based on the pitch you provided
 
-**What you will train:** 
+## What you will train:** 
 * You will learn how to communicate an software architecture to an aduence without any revious knowledge about it 
 * You will learn about the right level of abstracitron to be used 
