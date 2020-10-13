@@ -15,9 +15,9 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE
       - uses: actions/checkout@v2
 
-      - name: marp-action setup
+      - name: Run marp-action setup
         id: hello
-        uses: aheil/marp-action@v0.0.17
+        uses: aheil/marp-action@v0.0.18
         with:
           src-dir: 'slides'
       
