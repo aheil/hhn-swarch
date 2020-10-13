@@ -12,6 +12,8 @@ Lab Home Assignement Notes
 
 ### Lab 1: Software Architecture 
 
+* [Lab 01: Communication Training](labs/01_communication/lab.01.md)
+
 ## License 
 
 All the code in this repository is made available under the MIT license unless otherwise noted.
