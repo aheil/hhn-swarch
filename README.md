@@ -6,7 +6,7 @@ This course is being taught at as part of Master Software Engineering and Manage
 
 ## Lecture Slides 
 
-* [Software Architecture: Introduction](https://github.com/aheil/hhn-swarch/slides/raw/main/swarch.01.pdf)
+* [Software Architecture: Introduction](https://github.com/aheil/hhn-swarch/blob/main/slides/swarch.01.pdf)
 
 ### Lab and Home Assignment
 
