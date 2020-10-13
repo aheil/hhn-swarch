@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: marp-action setup
         id: hello
-        uses: aheil/marp-action@v0.0.4
+        uses: aheil/marp-action@v0.0.5
         with:
           text: 'Mona the Octocat'
       
