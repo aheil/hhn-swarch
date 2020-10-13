@@ -3,7 +3,7 @@
 ## Goals
 * Train you skills to communicate software architectures to third parties without previous knowledge 
 
-## Tasks:
+## Tasks
 * Find yourself in groups of three 
 * Each team member describes a (large) software program you have are familiar with 
     * This could be a project you have been involved in, your Bachelor thesis project or an open source project you are familiar with
@@ -22,11 +22,11 @@
 * Assume this is an "internal" meeting, you don't require any introduction yourself etc. 
 * Uplod the presentation to the corresponding ILIAS exercise
 
-### The presentation should not be more than 5 minutes:** 
+### The presentation should not be more than 5 minutes** 
 * Try to focus on the main aspects oft he software system you describe 
 * Your audience should get the idea of the main structure/architecture of the program 
 * Your adudience should be able to create a similar program based on the pitch you provided
 
-## What you will train:
+## What you will train
 * You will learn how to communicate an software architecture to an aduence without any revious knowledge about it 
 * You will learn about the right level of abstracitron to be used 
