@@ -10,9 +10,9 @@ footer:
 
 Prof. Dr.-Ing. Andreas Heil
 
-![h:32 CC 4.0](img/cc.svg)![h:32 CC 4.0](img/by.svg) Licensed under a Creative Commons Attribution 4.0 International license. Icons by The Noun Project.
+![h:32 CC 4.0](../img/cc.svg)![h:32 CC 4.0](../img/by.svg) Licensed under a Creative Commons Attribution 4.0 International license. Icons by The Noun Project.
 
-v1.0.1
+v1.0.2
 
 ---
 
@@ -25,7 +25,7 @@ v1.0.1
 
 What is an »architectural style«?
 
-![h:200 ](img/swarch.01.arch_style1.jpg) ![h:200 ](img/swarch.01.arch_style2.jpg) ![h:200 ](img/swarch.01.arch_style3.jpg)
+![h:200 ](../img/swarch.01.arch_style1.jpg) ![h:200 ](../img/swarch.01.arch_style2.jpg) ![h:200 ](../img/swarch.01.arch_style3.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ What is an »architectural style«?
     * rose windows
     * pointed archs
     * gothic buttress
-![w:640 bg right](img/swarch.01.gothic_style.jpg) 
+![w:640 bg right](../img/swarch.01.gothic_style.jpg) 
 
 ---
 
@@ -54,7 +54,7 @@ What is an »architectural style«?
     * pointed archs
     * gothic buttress
     
-![bg right](img/swarch.01.notre_dame.jpg) 
+![bg right](../img/swarch.01.notre_dame.jpg) 
 
 ---
 
@@ -114,7 +114,7 @@ img[alt~="center"] {
     * dependencies
 * The collaboration of the components is described using these relationships
 
-![w:640 center](img/swarch.01.lines.png) 
+![w:640 center](../img/swarch.01.lines.png) 
 
 ---
 
@@ -169,7 +169,7 @@ Let me tell you something a true story about someone who wanted to call himself 
 * These are real world examples[^3]
 * Would you be able to build the drawn system based on those architectural drawings?
 
-![h: 64](img/swarch.01.c4arch1.png) ![h: 64](img/swarch.01.c4arch2.png) ![h: 64](img/swarch.01.c4arch3.png) ![h: 64](img/swarch.01.c4arch4.png) 
+![h: 64](../img/swarch.01.c4arch1.png) ![h: 64](../img/swarch.01.c4arch2.png) ![h: 64](../img/swarch.01.c4arch3.png) ![h: 64](../img/swarch.01.c4arch4.png) 
 
 [^3]: https://c4model.com/
 
@@ -181,7 +181,7 @@ Let me tell you something a true story about someone who wanted to call himself 
 * Bear in mind, there is only *one* view on the architecture 
 * But you see various levels ob abstractions
 
-![w:600 bg right](img/swarch.01.packages.png) 
+![w:600 bg right](../img/swarch.01.packages.png) 
 
 ---
 
@@ -191,7 +191,7 @@ Let me tell you something a true story about someone who wanted to call himself 
 * This is *another* view on the previous architecture 
 * Still different levels of abstractions 
 
-![w:480 bg right](img/swarch.01.components.png) 
+![w:480 bg right](../img/swarch.01.components.png) 
 
 ---
 
