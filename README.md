@@ -8,7 +8,7 @@ This course is being taught at as part of Master Software Engineering and Manage
 
 * [Software Architecture: Introduction](https://github.com/aheil/hhn-swarch/slides/raw/main/swarch.01.pdf)
 
-### Lab 1: Software Architecture 
+### Lab and Home Assignment
 
 * [Lab 01: Communication Training](labs/01_communication/lab.01.md)
 
