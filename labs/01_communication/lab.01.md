@@ -4,7 +4,7 @@
 * Train you skills to communicate software architectures to third parties without previous knowledge 
 
 ## Tasks:
-* Find yourself in groups of 3 
+* Find yourself in groups of three 
 * Each team member describes a (large) software program you have are familiar with 
     * This could be a project you have been involved in, your Bachelor thesis project or an open source project you are familiar with
     * Describe briefly the functionality/puirpose of the program 
