@@ -15,7 +15,7 @@ jobs:
         id: hello
         uses: aheil/marp-action@v0.0.6
         with:
-          text: 'Mona the Octocat'
+          src-dir: 'slides'
       
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       #- uses: actions/checkout@v2
