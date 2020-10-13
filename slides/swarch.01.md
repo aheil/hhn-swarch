@@ -20,6 +20,7 @@ v1.0.1
 ## Introduction
 
 ---
+
 # What is an Architectural Style
 
 What is an »architectural style«?
@@ -39,6 +40,7 @@ What is an »architectural style«?
     * pointed archs
     * gothic buttress
 ![w:640 bg right](img/swarch.01.gothic_style.jpg) 
+
 ---
 
 # Architctural Style Example
@@ -95,7 +97,7 @@ img[alt~="center"] {
 * Requirements are mapped to software components
 
 
-![w:480 center](img/swarch.01.boxes.png) 
+![w:480 center](../img/swarch.01.boxes.png) 
 
 ---
 <style>
