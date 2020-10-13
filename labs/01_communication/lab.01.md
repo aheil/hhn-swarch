@@ -27,6 +27,6 @@
 * Your audience should get the idea of the main structure/architecture of the program 
 * Your adudience should be able to create a similar program based on the pitch you provided
 
-## What you will train:** 
+## What you will train:
 * You will learn how to communicate an software architecture to an aduence without any revious knowledge about it 
 * You will learn about the right level of abstracitron to be used 
