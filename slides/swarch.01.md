@@ -29,29 +29,29 @@ What is an »architectural style«?
 
 ---
 
-# Architctural Style Example
+# Architectural Style Example
 
 * An example: Gothic style 
 * Gothic style provides the following features:
     * cross-ribbed vault
-    * two instead of fuor roman archs 
+    * two instead of four roman arches 
     * high, broken-up walls
     * rose windows
-    * pointed archs
+    * pointed arches
     * gothic buttress
 ![w:640 bg right](../img/swarch.01.gothic_style.jpg) 
 
 ---
 
-# Architctural Style Example
+# Architectural Style Example
 
 * An example: Instance of Gothic style 
 * Gothic style provides the following features:
     * cross-ribbed vault
-    * two instead of fuor roman archs 
+    * two instead of four roman arches 
     * high, broken-up walls
     * rose windows
-    * pointed archs
+    * pointed arches
     * gothic buttress
     
 ![bg right](../img/swarch.01.notre_dame.jpg) 
@@ -93,7 +93,7 @@ img[alt~="center"] {
 # From Boxes...
 
 * Software architecture based on the process: »software architect design«
-* Software architecture design is a process where data structures, algorithms and software components are oganized in a way to achieve the desired behavior of a system
+* Software architecture design is a process where data structures, algorithms and software components are organized in a way to achieve the desired behaviour of a system
 * Requirements are mapped to software components
 
 
@@ -133,12 +133,12 @@ Let me tell you something a true story about someone who wanted to call himself 
 
 # Levels of Abstraction
 
-* To fuilly describe an architecture you probalby need various levels of abstraction
+* To fully describe an architecture you probably need various levels of abstraction
 * Examples
     * Static view (system components)
     * Dynamic view (processes, programm sequence)
     * Developer view (classes, packages)
-    * Phyiscal view (infrastructure, physical components)
+    * Physical view (infrastructure, physical components)
     * Deployment view (virtual machines, containers)
 
 * Use different views based on your needs 
@@ -148,14 +148,14 @@ Let me tell you something a true story about someone who wanted to call himself 
 
 # Documentation Approaches
 
-* There are various approaches how to docment software architectures
+* There are various approaches how to document software architectures
 
 * Architectural description languages (ADL): Formal languages which allow you to talk about architectures
 * Various research projects do exists[^2]
 * UML-based approaches: ArchMate, SysML 
 
 * Problem 1: No or little acceptance within the industry 
-* Problem 2: Formal approaches are neglected in favor for the much simpler boxes and lines 
+* Problem 2: Formal approaches are neglected in favour for the much simpler boxes and lines 
 
 **Consequence: simple boxes and lines are the most common approach for documenting and communicating architectures**
 
@@ -179,7 +179,7 @@ Let me tell you something a true story about someone who wanted to call himself 
 
 * Usage of UML package structures
 * Bear in mind, there is only *one* view on the architecture 
-* But you see various levels ob abstractions
+* But you see various levels of abstractions
 
 ![w:600 bg right](../img/swarch.01.packages.png) 
 
